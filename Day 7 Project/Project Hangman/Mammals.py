@@ -1,0 +1,22 @@
+mammals = [
+    "Human",
+    "Elephant",
+    "Tiger",
+    "Lion",
+    "Dog",
+    "Cat",
+    "Whale",
+    "Dolphin",
+    "Bat",
+    "Kangaroo",
+    "Monkey",
+    "Giraffe",
+    "Horse",
+    "Cow",
+    "Sheep",
+    "Goat",
+    "Pig",
+    "Rabbit",
+    "Bear",
+    "Leopard"
+]
